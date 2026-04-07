@@ -69,7 +69,7 @@ SQL is used because:
 
 ---
 
-## ▶️ Run Locally
+## Run Locally
 
 npm install
 node server.js
